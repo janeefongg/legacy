@@ -37,7 +37,6 @@ module.controller('ProfileCtrl', function(Profile, Auth, $scope, $state) {
      };
 
      $scope.reset();
-
-  }
+  
 });
 })();
